@@ -5,7 +5,7 @@
 
 
 ## 使用方法
-step 1. 下载源码，[click here](https://gitlab.fraudmetrix.cn/yipu.si/pyandform/repository/archive.zip?ref=master)
+step 1. 下载源码，[click here](https://github.com/sinsa110/pyAndForm_v1/archive/master.zip)
 
 step 2. 解压后放在自己的代码（ 运行环境 `python2.＊` ）目录下，修改文件夹名称 `pyandform.git` 改为 `pyandform` (文件夹名字中如果包含 `.`，import 时会报错)
 
